@@ -11,4 +11,5 @@ These are roles to investigate, not a claim that all titles are new or standardi
 | Data Analyst (AI-focused) | Analyze data used to evaluate AI tools, products, or workflows |
 | Data Analyst | Analyze and validate financial data, improve data accuracy, and support automation and AI-driven workflows. |
 | Investment Analyst | Evaluate investment portfolios, analyze financial performance and risk, and support investment decisions using financial data and analytical tools. |
+
 For each role, record a dated job posting, company, location, responsibilities, required skills, and portfolio evidence requested.
