@@ -8,14 +8,19 @@
 
 **Persona hypothesis, not an interview:** A busy recruiter or hiring manager wants to understand my interest in data analytics, finance, and business and quickly inspect evidence of my work. My [career direction](direction.md), [job research](job-descriptions.md), and [comparison](comparison.md) inform this plan.
 
-## Two approaches
+## Two design approaches: Modernist vs. Postmodernist
 
-| Approach | Benefits | Limitations |
+| Design element | Modernist | Postmodernist |
 | --- | --- | --- |
-| **A. Single-page portfolio with project links** | Quick to scan; simple mobile navigation; manageable scope | Less space for detailed project explanations |
-| **B. Separate pages for every project** | More space for evidence and methods | More navigation and maintenance |
+| Overall style | Clean, minimal, functional | Bold, experimental, expressive |
+| Typography | Consistent, readable, clear hierarchy | Oversized or unconventional typography |
+| Layout | Organized grids, spacing, and predictable navigation | Asymmetry, unexpected arrangements, and visual contrast |
+| Reader experience | Helps recruiters scan qualifications and projects quickly | Can communicate personality but may make information harder to find |
+| Fit for this portfolio | Strong match for data analytics, finance, and business audiences | Better suited to a more experimental creative identity |
 
-**Decision:** Choose A for now, with clearly labeled links to detailed evidence. Dedicated project case studies may be added later.
+**Decision: Modernist.** I chose a modernist direction because my target audience includes recruiters and hiring managers who need to find my education, projects, skills, and résumé quickly. A clean layout, readable type, and consistent navigation prioritize the evidence behind my work rather than visual distractions. I can still use a distinctive accent color and strong headings without sacrificing usability.
+
+**How this guides the site:** Keep the existing single-page structure with clear sections, simple project cards, and direct professional links. Modernist versus postmodernist is the **visual-design comparison**; single-page versus multi-page is a separate information-architecture choice, not the two design approaches being evaluated here.
 
 ## Five stories, features, and observable checks
 
