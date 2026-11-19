@@ -13,6 +13,7 @@ export default defineConfig({
         { text: 'Skills & Qualifications', link: '/skills' },
         { text: 'Career Comparison', link: '/comparison' },
         { text: 'My Career Direction', link: '/direction' },
+        { text: 'Portfolio Plan', link: '/portfolio-plan' },
         { text: 'Sources & AI Usage', link: '/sources' }
       ] }
     ],
