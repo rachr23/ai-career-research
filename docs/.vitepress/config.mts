@@ -5,7 +5,7 @@ export default defineConfig({
   description: 'Research on emerging AI careers, responsibilities, skills, and career pathways.',
   base: '/ai-career-research/',
   themeConfig: {
-    nav: [{ text: 'Home', link: '/' }, { text: 'Career Roles', link: '/roles' }, { text: 'My Direction', link: '/direction' }],
+    nav: [{ text: 'Home', link: '/' }, { text: 'Career Roles', link: '/roles' }, { text: 'My Direction', link: '/direction' }, { text: 'My Portfolio', link: '/portfolio/' }],
     sidebar: [
       { text: 'Research', items: [
         { text: 'Emerging AI Careers', link: '/roles' },
