@@ -39,11 +39,11 @@ A **user story** describes what a visitor wants to do on my portfolio and why, f
 ## Professional destinations
 
 - GitHub: https://github.com/rachr23
-- LinkedIn: **URL to confirm**
+- LinkedIn: www.linkedin.com/in/rachell-rivera-36892626b
 - Project repository 1 (career research and portfolio): https://github.com/rachr23/ai-career-research
 - Project repository 2 (UNFORM): https://github.com/rachr23/is117-brand-studio
 - Project repository 3: **name and URL to confirm**
-- Résumé: **readable file/link to add**
+- Résumé: https://github.com/rachr23/ai-career-research/blob/main/docs/public/Rachell%20Rivera%20Resume.pdf 
 
 ## Visual choices and honest persuasion
 
