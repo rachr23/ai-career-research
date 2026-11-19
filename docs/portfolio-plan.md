@@ -43,7 +43,7 @@ A **user story** describes what a visitor wants to do on my portfolio and why, f
 - Project repository 1 (career research and portfolio): https://github.com/rachr23/ai-career-research
 - Project repository 2 (UNFORM): https://github.com/rachr23/is117-brand-studio
 - Project repository 3: **name and URL to confirm**
-- Résumé: https://github.com/rachr23/ai-career-research/blob/main/docs/public/Rachell%20Rivera%20Resume.pdf 
+- Résumé: https://rachr23.github.io/ai-career-research/Rachell%20Rivera%20Resume.pdf (PDF uploaded; portfolio button added, pending live-site verification) 
 
 ## Visual choices and honest persuasion
 
@@ -65,6 +65,6 @@ Keep plain HTML/CSS for the portfolio page and VitePress for the existing resear
 ## Change and open-issue note
 
 **Changed:** Added this portfolio plan comparing two approaches and defining five user stories, essential features, and observable checks.  
-**Open:** Professional-material destinations and peer-review evidence need completion.
+**Open:** Third project repository and peer-review evidence need completion; verify the résumé and LinkedIn links on the published site.
 
 **AI assistance:** AI helped draft and structure this plan. I will review the claims, verify links, and record actual feedback and tests before submitting.
