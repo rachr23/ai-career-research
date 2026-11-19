@@ -22,17 +22,19 @@
 
 **How this guides the site:** Keep the existing single-page structure with clear sections, simple project cards, and direct professional links. Modernist versus postmodernist is the **visual-design comparison**; single-page versus multi-page is a separate information-architecture choice, not the two design approaches being evaluated here.
 
-## Five stories, features, and observable checks
+## User stories, essential features, and observable checks
+
+A **user story** describes what a visitor wants to do on my portfolio and why, from the visitor's point of view rather than the designer's. The format is: **“As a [type of user], I want to [action], so that I can [goal].”** The following stories are planning hypotheses about visitor needs, not claims from interviews.
 
 | User story | Essential feature | Planned observable check |
 | --- | --- | --- |
-| As a recruiter, I want to know who I am reading about so I can assess relevance quickly. | Intro naming my degree and career interests | Open on desktop and phone and confirm name, interests, and call to action are readable |
-| As a hiring manager, I want to inspect actual projects so I can evaluate the work. | Project cards linking to all three repositories and supporting evidence | Open every repository link on a phone and confirm each destination matches its label |
-| As a recruiter, I want professional profiles so I can learn more. | GitHub and LinkedIn links | Follow each and confirm it opens my own profile |
-| As a recruiter, I want a résumé so I can review experience and education. | Clearly labeled readable résumé link | Open on phone and desktop and verify readability without sign-in |
-| As a reviewer, I want to understand the reasoning behind the site so I can evaluate it. | Link to career research and this plan | Follow both and explain how the research led to the layout and project choices |
+| **1.** As a recruiter, I want to learn about the candidate's background so that I can determine whether they may be a good fit. | Clear introduction and About Me section describing education and career interests | Open on desktop and phone; confirm the name, education, and career interests are readable and easy to find |
+| **2.** As a hiring manager, I want to view the candidate's projects so that I can evaluate their skills and supporting evidence. | Projects section with descriptions and direct links to all three project repositories | Click each project and repository link on a phone; confirm each leads to the correct work |
+| **3.** As a recruiter, I want to access the candidate's LinkedIn and GitHub so that I can learn more about their professional background. | Clearly labeled LinkedIn and GitHub links | Open both links and verify that they lead to the candidate's own profiles |
+| **4.** As a hiring manager, I want to open the candidate's résumé so that I can review qualifications and experience. | Prominent résumé link to a readable document | Open the résumé on phone and desktop; confirm it loads and is readable without signing in |
+| **5.** As a visitor, I want to navigate the portfolio easily so that I can find relevant information quickly. | Simple section navigation and mobile-responsive layout | Navigate to About, Projects, and Contact on desktop and phone; confirm links work and text is not cut off |
 
-These are **planned checks**, not observed passing results.
+**Observable checks** are specific actions that show whether the feature works. For example, a résumé link is not verified merely because it appears on the page: someone must open it and confirm the document is readable. **These checks are planned, not completed test results.**
 
 ## Professional destinations
 
